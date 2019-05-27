@@ -9,7 +9,7 @@ Each row of the Fusion Table must be displayed as a marker on the map.
 
 When a user clicks on a marker an information window shall be displayed showing the relevant data from that row.
 
-The Fusion Table you must be "Public" or "Anyone with the link can view"
+The Fusion Table you must use must be "Public" or "Anyone with the link can view"
 
 Add a directions features.
 
